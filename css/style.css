@@ -86,6 +86,10 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #FF9000;
 }
 
+#fh5co-about .container .row .fh5co-heading h2{
+  color:black;
+}
+
 #fh5co-header,
 .fh5co-cover {
   background-color: transparent;
