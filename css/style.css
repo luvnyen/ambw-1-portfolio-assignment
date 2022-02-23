@@ -328,6 +328,10 @@ h1, h2, h3, h4, h5, h6, figure {
   color: black !important;
 }
 
+#fh5co-work .container .row .fh5co-heading h2{
+  color: white !important;
+}
+
 .info {
   margin: 0;
   padding: 0;
@@ -429,7 +433,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 40px;
   margin-bottom: 20px;
   line-height: 1.5;
-  color: #000;
+  color: white;
 }
 .fh5co-heading p {
   font-size: 18px;
@@ -603,7 +607,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 20px;
   font-size: 16px;
   font-weight: normal;
-  color: #bfbfbf;
+  color: white;
 }
 
 .timeline-body > p,
@@ -995,9 +999,18 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 50px 0;
   float: left;
   width: 100%;
+  background-color: #FF9000;
 }
 #fh5co-footer p:last-child {
   margin-bottom: 0;
+}
+
+#fh5co-footer .container .row .col-md-12 p{
+  color: black !important;
+}
+
+#fh5co-footer .container .row .col-md-12 p a{
+  color: white !important;
 }
 
 .contact-info {
