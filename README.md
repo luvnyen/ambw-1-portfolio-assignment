@@ -7,7 +7,7 @@ Portfolio Site & Git (Version Control) assignment for the Web-Based Mobile Appli
 
 ### See the portfolio site 💻 [Click here!](https://luvnyen.github.io/ambw-1-portfolio-assignment/)
 
-## Group members
+## Group Members
 Charlton Gilbert – C14190037<br>
 Handrian Alandi – C14190231<br>
 Kevin Jonathan – C14190207<br>
